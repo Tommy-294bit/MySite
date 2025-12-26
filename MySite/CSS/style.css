@@ -1,0 +1,22 @@
+body {
+  background-color: #ff8800;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    gap: 1rem;
+
+}
+
+nav ul li{
+    list-style: none;
+}
+
+.fa-house {
+  color: #000000;
+}
+
